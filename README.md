@@ -1,6 +1,9 @@
 N adalah jumlah orang yang akan dilawan Juned
+
 M adalah kekuatan awal juned
+
 Ai adalah kekuatan dari masing masing lawan dari Juned
+
 Bi adalah tambahan kekuatan yang akan diterima Juned ketika menang melawan lawan 
 
 Term:
