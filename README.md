@@ -7,18 +7,18 @@ Ai adalah kekuatan dari masing masing lawan dari Juned
 Bi adalah tambahan kekuatan yang akan diterima Juned ketika menang melawan lawan 
 
 
-Term:
+**Term:**
 
 Juned akan melawan musuh dari yang terlemah ke yang terkuat didalam Ai.
 
 Juned hanya bisa menang bila melawan musuh yang lebih lemah atau sama kuat
 
-Output:
+**Output:**
 
 Kekuatan terakhir atau terbesar Juned sebelum kalah / setelah musuh habis
 
 
-Langkahnya adalah
+**Langkahnya adalah:**
 1. Sediakan Input N dan M
 2. Sediakan input Ai
 3. Sediakan input Bi
